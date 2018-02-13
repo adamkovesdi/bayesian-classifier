@@ -19,5 +19,6 @@ guard :shell do
     puts ' Generating README.html'
     puts '------------------------------------------'
     puts "TODO: #{m[0]} changed"
+    `grip --export #{m[0]}`
   end
 end
