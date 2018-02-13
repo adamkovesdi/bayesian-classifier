@@ -1,0 +1,352 @@
+Tue, 09 Jan 2018 15:48:37 +0000|Freezing machines halt chip bug patch|Fixes for the Meltdown and Spectre flaw is temporarily halted by Microsoft after AMD machines freeze.
+Tue, 09 Jan 2018 00:28:14 +0000|CES 2018: Samsung launches modular TV called The Wall|The modular parts used to make the 146in TV also allow for screens of unusual shapes to be made.
+Tue, 09 Jan 2018 11:29:00 +0000|Toy firm VTech fined $650,000 over data breach|US regulators say it did a poor job of protecting data it gathered about children and parents.
+Mon, 08 Jan 2018 19:20:16 +0000|CES 2018: LG robot Cloi repeatedly fails on stage at unveil|A robot designed to help households control smart devices repeatedly fails on stage as it is unveiled.
+Tue, 09 Jan 2018 05:49:41 +0000|CES 2018: Intel to make flawed chips safe in a week|The chip maker's boss addressed the Meltdown and Spectre bugs at CES in Las Vegas.
+Tue, 09 Jan 2018 07:03:44 +0000|India woman kills self 'over WhatsApp bullying'|The Hindu woman had been bullied over her friendship with a Muslim man, Indian police say.
+Mon, 08 Jan 2018 22:52:30 +0000|HTC unveils 'Pro' virtual reality headset|The new device boasts screens that are nearly twice as sharp as those in the firm's current model.
+Tue, 09 Jan 2018 05:03:02 +0000|CES 2018: A clunky chat with Sophia the robot|An awkward audience with a celebrity robot still has the power to impress.
+Tue, 09 Jan 2018 00:54:55 +0000|CES 2018: Coravin bottle-sealing gadget picks wine to match Bowie|Coravin's net-connected version of its cork-sealing gadget matches vintages with classic rock albums.
+Tue, 09 Jan 2018 02:30:16 +0000|Samsung forecasts record profits but misses expectations|The South Korean giant shakes off corruption scandal to predict 64% jump in quarterly earnings.
+Mon, 08 Jan 2018 22:47:55 +0000|Apple investigated by France for 'planned obsolescence'|Prosecutors will look into claims of "planned obsolescence" in iPhones, which is illegal in France.
+Mon, 08 Jan 2018 21:51:19 +0000|Google sued over 'male discrimination'|The class action lawsuit accuses the tech giant of discriminating against conservative white men.
+Mon, 08 Jan 2018 19:35:11 +0000|GoPro considers sale as revenues plunge|The US firm is reported to being considering a sale after it reveals a weak festive performance.
+Mon, 08 Jan 2018 14:33:56 +0000|Apple investors urge action on 'smartphone addiction'|Two major investors urge Apple to address the growing issue of smartphone addiction in children.
+Mon, 08 Jan 2018 12:38:51 +0000|Forget Bitcoin - now Dogecoin goes wild|Even in the turbulent world of cryptocurrencies, Dogecoin is seen as a pretty wild creature.
+Fri, 05 Jan 2018 16:01:45 +0000|White noise video on YouTube hit by five copyright claims|A man says his original recording of white noise has faced five accusations of copyright infringement.
+Fri, 05 Jan 2018 04:04:59 +0000|Apple: Chip bug in all Macs and iPhones|The tech giant has released some fixes and says there are "no known exploits" of the flaws.
+Thu, 04 Jan 2018 19:22:52 +0000|Mark Zuckerberg vows to 'fix' Facebook|The social network's CEO promises to look at how it handles abuse, hate and so-called fake news.
+Fri, 05 Jan 2018 10:59:24 +0000|Nintendo Switch is fastest-selling US home console|The Japanese gamemaker's latest device is America's fastest-selling home console.
+Thu, 04 Jan 2018 16:08:37 +0000|FCC chairman cancels attendance at CES|The man behind controversial changes to how the internet works cancels a technology conference debate.
+Fri, 05 Jan 2018 05:34:22 +0000|Aadhaar: 'Leak' in world's biggest database worries Indians|Officials file a complaint after a report that personal details on the database are being sold.
+Thu, 04 Jan 2018 15:26:30 +0000|Meltdown and Spectre: How chip hacks work|Here's why computer processors are vulnerable to hackers thanks to two recently discovered bugs.
+Thu, 04 Jan 2018 03:23:15 +0000|Rush to fix 'serious' computer chip flaws|Devices with microchips made by firms including Intel, ARM and AMD are vulnerable say researchers.
+Wed, 03 Jan 2018 12:52:50 +0000|Psychedelic toasters fool image recognition tech|Colourful patterns can fool image recognition software, a team of Google researchers suggests.
+Thu, 04 Jan 2018 17:02:21 +0000|Schools 'should help children with social media risk'|Pupils starting secondary school face "avalanche of pressure", England's children's commissioner says.
+Wed, 03 Jan 2018 09:23:55 +0000|Logan Paul: YouTuber apologises over Japan dead man video|Six million people watched the film showing Logan Paul finding an apparent suicide victim in Japan.
+Tue, 09 Jan 2018 10:16:09 +0000|CES 2018: Hands-on with HTC's untethered VR headset.|HTC debuted an adaptor that allows Vive users to play untethered from the computer. The brand also announced a new, higher-end VR headset. Dave Lee gave it a go.
+Tue, 09 Jan 2018 04:07:28 +0000|CES 2018: Short story dispenser spits out tales|A French publisher aims to print stories and poems on demand in unexpected places.
+Tue, 09 Jan 2018 08:15:27 +0000|CES 2018: A seeing suitcase and other AI-enhanced gadgets|Rory Cellan-Jones reports on how firms are promoting their use of artificial intelligence at CES.
+Mon, 08 Jan 2018 22:10:11 +0000|CES 2018: Robot refuses to co-operate with LG chief|A shy robot that ignored commands from LG's marketing chief overshadows the firm's CES press event.
+Mon, 08 Jan 2018 19:27:05 +0000|CES 2018: Scribbles turned into fine art by Vincent AI app|Software that can turn simple scribbles into detailed "paintings" is on show at CES in Las Vegas.
+Mon, 08 Jan 2018 05:26:39 +0000|CES 2018: LG Display shows off large rollable TV screen|LG Display has created the world's first large, rollable, ultra-high definition television screen.
+Fri, 05 Jan 2018 18:36:32 +0000|CES 2018: Electric virtual reality suit shocks gamers|The Teslasuit can serve up some real-world pain when playing virtual reality games.
+Sun, 07 Jan 2018 00:06:42 +0000|CES 2018: Orosound smart earphones cancel out unwanted noise|Dan Simmons puts Orosound's Tilde noise cancelling earphones to the test.
+Tue, 26 Dec 2017 01:04:22 +0000|How baby play is helping robots imagine the future|Researchers at the University of California, Berkeley have taught a robot to play.
+Wed, 27 Dec 2017 08:05:22 +0000|Quantum computing: Modular system announced|Linking modular quantum computers together could create a more powerful network.
+Mon, 18 Dec 2017 00:39:50 +0000|Nikon v Kodak: 360 cameras go head-to-head|Two mid-range 360 cameras are put to test by the BBC Click team.
+Fri, 15 Dec 2017 10:41:40 +0000|AI helps write Harry Potter fanfiction and other news|BBC Click's Jen Copestake looks at some of the best of the week's technology news stories.
+Sat, 06 Jan 2018 00:01:55 +0000|Product hunt|Our gadget picks include an electric body suit, sensors that track you at home and some crazy cars.
+Tue, 09 Jan 2018 00:25:06 +0000|Kickstart your fitness|Many of us make New Year's resolutions to lose weight and get fit, so can tech help us stick to them?
+Mon, 08 Jan 2018 01:54:08 +0000|Bitcoin in Africa|African millennials explain to Catherine Byaruhanga the attraction of risky cryptocurrency Bitcoin.
+Sun, 07 Jan 2018 03:05:12 +0000|Drone runways|The Dutch engineer behind the design for circular runways has revealed plans to build a test runway for drones.
+Sun, 07 Jan 2018 11:10:42 +0000|Messaging Battle|Aside from the street protests, the state and its critics are engaged in a major struggle online.
+Fri, 05 Jan 2018 00:23:42 +0000|The Year of AI|Artificial intelligence and machine learning will thoroughly infiltrate our lives this year, firms believe.
+Wed, 03 Jan 2018 01:22:19 +0000|Five African tech trends |Trends include delivery drones, pay-as-you-go off-grid power, and using blockchain to prevent land disputes.
+Sat, 30 Dec 2017 00:41:54 +0000|The man who can't face the internet|One man's quest to keep his image off the internet.
+Sun, 07 Jan 2018 01:32:21 +0000|CES 2018: DNANudge app uses saliva to recommend what to eat|A UK start-up plans to offer DNA tests in shops to help people eat more healthily.
+Fri, 05 Jan 2018 18:39:30 +0000|CES 2018: Psion PDA gets Android makeover|The must-have business tool of the 90s has been updated by one of the original designers.
+Fri, 05 Jan 2018 18:36:58 +0000|CES 2018: The house that hears burglars|Software that can identify sounds such as windows being smashed has been developed in Cambridge, UK.
+Fri, 05 Jan 2018 18:40:16 +0000|CES 2018: Aryzon flat-pack kit promises affordable AR|Aryzon's cardboard kit turns smartphones into augmented reality headsets.
+Sun, 07 Jan 2018 21:40:02 +0000|CES 2018: Black Box VR wants to make gamers fit|A start-up at the CES tech show believes virtual reality could revolutionise how we use gyms.
+Mon, 08 Jan 2018 00:13:47 +0000|CES 2018: Headphones made from recycled firearms|Swedish firm Yevo says it wants to turn "something negative" into something positive.
+Mon, 08 Jan 2018 02:47:19 +0000|CES 2018: Android camera makes 3D spinnable selfies|A start-up has a smartphone gadget that lets users create high-resolution models of their faces.
+Mon, 08 Jan 2018 05:04:32 +0000|CES 2018: Event chief reacts to sexist speaker list row|CES's chief promises to "do better" after criticism the event's main keynote speakers are all male.
+Tue, 09 Jan 2018 17:15:27 +0000|Twitch in last-minute deal with Overwatch|An innovative e-sports league will be broadcast exclusively on social video service Twitch.
+Tue, 09 Jan 2018 22:19:58 +0000|CES 2018: Kodak soars on KodakCoin and Bitcoin mining plans|The photo firm Kodak is to create its own crypto-currency and provide a Bitcoin-mining service.
+Tue, 09 Jan 2018 22:44:47 +0000|MyKronoz's hybrid watch hides screen behind hands|A smartwatch with a screen hidden behind its analogue hands is on show at the CES tech show.
+Wed, 10 Jan 2018 01:43:36 +0000|CES 2018: Jetpack Aviation's chief has fear of heights|The chief executive of a leading jetpack firm reveals how he copes with being scared of heights.
+Wed, 10 Jan 2018 03:09:57 +0000|CES 2018: Zano the zombie drone whirs back to life|Drones that were incapacitated by the collapse of their creator are set to work again.
+Wed, 10 Jan 2018 04:25:14 +0000|CES 2018: Amazon Alexa v Google Assistant fight gets fierce|The rivalry between Amazon and Google's virtual assistants is fiercer than ever at the tech show.
+Wed, 10 Jan 2018 06:36:15 +0000|Huawei's US smartphone deal collapses|A tie-up with AT&T was seemingly scuppered over concerns about Chinese firms entering US telecoms.
+Wed, 10 Jan 2018 06:52:53 +0000|CES 2018: Sony's Aibo robo-dog shows off AI smarts|Sony shows off its robot pup at the CES tech expo to highlight its artificial intelligence skills.
+Wed, 10 Jan 2018 09:17:18 +0000|CES 2018: Robot battles BBC at Scrabble|The BBC's Dave Lee challenges a robot to a game of Scrabble at CES 2018.
+Wed, 10 Jan 2018 10:38:05 +0000|CES 2018: iKeyp smart safe proves easy to crack open|Tests of a smart safe on display at CES suggest it is relatively easy to steal its contents.
+Wed, 10 Jan 2018 10:50:01 +0000|Moscow taxi users face the bill amid GPS meddling claims|Taxi users are facing inflated fares because their position has been wrongly located thousands of miles away.
+Wed, 10 Jan 2018 12:36:48 +0000|Apple: Chinese firm to operate China iCloud accounts|A company linked to the Chinese government will operate the service in China from 28 February.
+Wed, 10 Jan 2018 13:32:27 +0000|Taiwanese police give cyber-security quiz winners infected devices|Taiwanese police gave malware-inflected thumb drives as prizes at a cyber-security expo.
+Wed, 10 Jan 2018 13:56:40 +0000|Meltdown fix can make some machines slower - Intel|The patch for a security hole in its chips may slow down machines but the impact will be limited, it says.
+Wed, 10 Jan 2018 14:31:58 +0000|Carphone Warehouse fined £400,000 over data breach|The regulator says its £400,000 fine follows the discovery of rudimentary mistakes by the retailer.
+Wed, 10 Jan 2018 17:36:21 +0000|Facebook kills virtual assistant M|The social media company says the text-based service that operates with human input, was an experiment.
+Wed, 10 Jan 2018 20:12:18 +0000|CES: Power cut at major Las Vegas electronics show|The Las Vegas Convention Center hosting the CES event went dark at 11:20 local time (19:20 GMT).
+Wed, 10 Jan 2018 22:14:22 +0000|CES 2018: Power cut at major Las Vegas tech show|Attendees were evacuated from an area hosting Samsung, LG and Sony at the giant Las Vegas trade fair.
+Wed, 10 Jan 2018 22:00:53 +0000|CES 2018: Boxer Floyd Mayweather ducks crypto-controversy|Floyd Mayweather is keen to discuss virtual reality but not to discuss his promotion of crypto-cash.
+Thu, 11 Jan 2018 01:18:59 +0000|CES 2018: Intel's swarm of drones lights up Vegas night sky|More than 200 drones are dazzling audiences in Las Vegas with a sky show timed to coincide with CES.
+Thu, 11 Jan 2018 02:01:18 +0000|YouTube cuts ties with vlogger over Japan suicide video|Logan Paul loses business deals after posting a video showing an apparent suicide victim in Japan.
+Thu, 11 Jan 2018 03:25:46 +0000|CES 2018: Willow and Freemie breast pumps offer mums freedom|The battery-powered devices are designed to be worn more discreetly than traditional pumps.
+Thu, 11 Jan 2018 04:24:06 +0000|CES 2018: Sticky note printer created for technophobe mother|An inventor creates a machine that churns out retro-style coloured notes for his far-off mother.
+Thu, 11 Jan 2018 05:14:02 +0000|CES 2018: Longer-lasting gadgets showcased|A smattering of gadgets show off at the tech show promise better battery life than we're used to.
+Thu, 11 Jan 2018 05:19:34 +0000|South Korea announces Bitcoin ban plan|Government cryptocurrency concerns include tax evasion and people developing gambling addictions
+Thu, 11 Jan 2018 06:41:16 +0000|CES 2018: Longer-lasting gadgets showcased|A smattering of gadgets show off at the tech show promise better battery life than we're used to.
+Thu, 11 Jan 2018 10:44:16 +0000|YouTube cuts ties with Logan Paul over Japan suicide video|Logan Paul loses business deals after posting a video showing an apparent suicide victim in Japan.
+Thu, 11 Jan 2018 11:10:21 +0000|US man charged over 15-year spying campaign|The attacked allegedly spied on users via webcams and stole personal data and login information.
+Thu, 11 Jan 2018 10:46:17 +0000|YouTube punishes Logan Paul over Japan suicide video|Logan Paul loses business deals after posting a video showing an apparent suicide victim in Japan.
+Thu, 11 Jan 2018 12:08:06 +0000|YouTube punishes Logan Paul over Japan suicide video|Logan Paul loses business deals after posting a video showing an apparent suicide victim in Japan.
+Thu, 11 Jan 2018 12:31:19 +0000|South Korea considers Bitcoin trading ban|Government cryptocurrency concerns include tax evasion and people developing gambling addictions.
+Thu, 11 Jan 2018 12:49:54 +0000|US retirement village to have 'largest' self-driving taxi scheme|Start-up company Voyage will start rolling out the service at The Villages, Florida next year.
+Thu, 11 Jan 2018 22:16:40 +0000|CES 2018: Square Off smart chessboard moves its own pieces|The internet-connected device is designed to make it easier to play with a friend based elsewhere.
+Thu, 11 Jan 2018 23:16:07 +0000|CES 2018: Panasonic's concept car has pick-your-own views|Panasonic shows off a concept car with windows that can swap out the real view for one you prefer.
+Fri, 12 Jan 2018 00:04:32 +0000|Will taps run dry?|With water usage and droughts across the globe rising, the race is on to manage water more efficiently.
+Fri, 12 Jan 2018 00:56:31 +0000|CES 2018: Omron's ping pong robot keeps ball in play|A robot that matches its ping pong-playing skill level to its human opponent's is on show at CES.
+Fri, 12 Jan 2018 02:08:48 +0000|Facebook plans major changes to news feed|The social network is to make posts from businesses, brands and media less prominent.
+Fri, 12 Jan 2018 04:50:40 +0000|CES 2018: Hushme mask lets users make private calls|A hi-tech face mask is being pitched as a way to obscure users' voices to let them speak in private.
+Fri, 12 Jan 2018 05:40:29 +0000|CES 2018: Luka owl robot reads bedtime stories to kids|A robot that can read any of 50,000 picture books to young children will soon launch.
+Fri, 12 Jan 2018 05:54:39 +0000|CES 2018: Were robots more than a gimmick at the tech show?|Tech firms try to convince the public their robots are ready to buy despite several stumbles.
+Fri, 12 Jan 2018 06:53:06 +0000|PubG creator says the game is 'not eSports ready' yet|Brendan Greene, the brains behind PubG one of the most popular games in the world, talks eSports with the Radio 1 Gaming Show
+Fri, 12 Jan 2018 08:38:44 +0000|CES 2018: A look at the show's highlights|BBC Click's Lara Lewington looks at some of the best of technology at CES 2018.
+Fri, 12 Jan 2018 11:47:43 +0000|Europe puts 1bn euros into supercomputer research|The Commission wants to spend 1bn euros on machines far faster than existing supercomputers
+Fri, 12 Jan 2018 12:56:55 +0000|Apple health data used in murder trial|Data suggesting movements correlating to how a suspect disposed of a body used as evidence.
+Fri, 12 Jan 2018 15:01:49 +0000|Facebook and Twitter effect on political leaders|Social media is reaching those who might not get their news from broadcasters and traditional media.
+Fri, 12 Jan 2018 16:25:19 +0000|Snapchat redesign is a 'flop' with users|Social media service Snapchat redesign has not proved popular with many of its regular users
+Sat, 13 Jan 2018 02:02:31 +0000|CES 2018: Merge Blaster mixes real world with game|A hi-tech toy gun lets gamers play virtual reality-style games without having to wear a headset.
+Sat, 13 Jan 2018 02:15:41 +0000|CES 2018: Wireless recharging while on the move|An over-the-air recharging solution designed for use in the car is on show at the CES trade fair.
+Sat, 13 Jan 2018 03:00:34 +0000|CES 2018: Food store AI sees what you put in basket|A prototype system spots what shoppers pick up so that they can avoid queuing to pay at the till.
+Sat, 13 Jan 2018 03:13:04 +0000|CES 2018: Bringing female equality to WWE's wrestling ring|World Wrestling Entertainment’s Stephanie McMahon explains her firm's move into virtual reality.
+Sat, 13 Jan 2018 06:36:05 +0000|CES 2018: Merge Blaster mixes real world with game|A hi-tech toy gun lets gamers play virtual reality-style games without having to wear a headset.
+Sat, 13 Jan 2018 07:17:57 +0000|CES 2018: CarWink emojis seek to replace driver hand gestures|A small display that shows images offers motorists a new way to communicate to each other.
+Mon, 15 Jan 2018 01:26:34 +0000|Thousands struggle to access childcare on glitchy website|Parents are struggling to get subsidised childcare they are entitled to due to continued web issues.
+Mon, 15 Jan 2018 01:05:04 +0000|Softbank plans $18bn share sale of its mobile business|The share sale could include listings in Tokyo and London but Softbank says no decision has been taken.
+Mon, 15 Jan 2018 00:08:33 +0000|Captured paedophile|A BBC Trending report about online predators prompted a reader to investigate and eventually led to the conviction of a dangerous paedophile.
+Mon, 15 Jan 2018 11:56:42 +0000|American charged over deadly 'swatting' raid|A man accused of making a prank call that led to a fatal shooting is charged in the US.
+Mon, 15 Jan 2018 12:53:43 +0000|Ford to boost investment in electric cars by 2022|The firm says it will have 40 hybrid and fully electric vehicles in its range within five years.
+Mon, 15 Jan 2018 12:57:47 +0000|Malware populates children's apps with porn adverts|Apps containing the malicious code were downloaded more than three million times.
+Mon, 15 Jan 2018 13:33:04 +0000|Ford to boost investment in electric cars by 2022|The firm says it will have 40 hybrid and fully electric vehicles in its range within five years.
+Mon, 15 Jan 2018 14:35:42 +0000|Ford to boost investment in electric cars by 2022|The firm says it will have 40 hybrid and fully electric vehicles in its range within five years.
+Mon, 15 Jan 2018 16:40:27 +0000|Denmark Facebook sex video: More than 1,000 young people charged|They are accused of sharing explicit videos of two 15-year-olds via Facebook Messenger.
+Mon, 15 Jan 2018 17:10:31 +0000|CES 2018: Time machine camera lets you record 'missed moments'|A wearable camera lets users record events that have already happened over the past 10 seconds.
+Mon, 15 Jan 2018 17:45:15 +0000|Hackers steal $400,000 of crypto-currency|The group breached BlackWallet, a web-based wallet application that stores the Stellar Lumen currency.
+Tue, 16 Jan 2018 00:20:34 +0000|Panic buying|Cyber insurance is growing fast as businesses lose billions to hackers.
+Tue, 16 Jan 2018 12:04:54 +0000|Flaw in VR porn app leaves 20,000 names exposed|SinVR app says it has fixed an issue which left 20,000 names and email addresses exposed.
+Tue, 16 Jan 2018 12:12:58 +0000|OnePlus phone company investigates card fraud claims|Almost 200 people report seeing fraudulent charges following a purchase via the OnePlus site.
+Tue, 16 Jan 2018 14:59:29 +0000|Twitch spamming suspect charged in Canada|Streams were widely disrupted by a series of attacks that hit them with hundreds of toxic comments.
+Tue, 16 Jan 2018 15:18:24 +0000|CES 2018: Floating ads created by Kino-mo's spinning tech|Spinning LED strips are used to create video images that appear to float in mid-air like holograms.
+Tue, 16 Jan 2018 15:42:04 +0000|Uber to introduce limit on drivers' hours|Drivers who do not take a long enough break will not be able to log in to the app and take trips.
+Wed, 17 Jan 2018 07:16:19 +0000|Bitcoin: South Korea sways cryptocurrency prices - but how?|The Asian nation has been a big adopter of virtual currency, so developments there have a global impact.
+Wed, 17 Jan 2018 10:17:03 +0000|YouTube toughens advert payment rules|The video-clip platform will require creators to have more than 1,000 subscribers to feature adverts.
+Wed, 17 Jan 2018 10:47:13 +0000|Belgium 'abduction': Woman uses phone map to provide her location|A 19-year-old woman finds her location in Charleroi in Belgium and alerts her brother.
+Wed, 17 Jan 2018 12:26:23 +0000|Bitcoin dips below $10,000|The crypto-currency has nearly halved in value since its peak in December.
+Wed, 17 Jan 2018 12:41:28 +0000|Belgium 'abduction': Woman uses phone map to provide her location|A 19-year-old woman finds her location in Charleroi in Belgium and alerts her brother.
+Wed, 17 Jan 2018 13:01:25 +0000|Bitcoin dips below $10,000 for first time since December|The crypto-currency has nearly halved in value since its peak in December.
+Wed, 17 Jan 2018 13:14:13 +0000|BT guarantees broadband speeds for two new services|Only 250,000 homes will be able to access the new services - a fraction of the total connected to the internet.
+Wed, 17 Jan 2018 14:40:14 +0000|Drone hit newly erected crane during Kent site survey - report|It struck a crane that was not in place when the pilot carried out site safety check, a report says.
+Wed, 17 Jan 2018 15:55:01 +0000|YouTube singer Chrissy Chambers wins revenge porn case|Chrissy Chambers is awarded damages from her ex-boyfriend who posted sexual videos of her online.
+Wed, 17 Jan 2018 17:40:19 +0000|Kitty Perry and the copyright lessons for seven-year-olds|A new campaign aims to make lessons about intellectual property infringement fun.
+Thu, 18 Jan 2018 04:57:04 +0000|Nintendo Labo: The DIY cardboard accessory for Switch|Labo will turn Switch controllers into a piano, a fishing rod, a motorbike or even a robot suit.
+Thu, 18 Jan 2018 11:57:46 +0000|Detroit Motor Show: What the cars of the future may look like|A range of concept cars and trucks are showcased at the 2018 Detroit motor show.
+Thu, 18 Jan 2018 12:41:17 +0000|Intel fix causes reboots and slowdowns|The chip-maker says the patches it has issued to fix two security flaw can cause further problems.
+Thu, 18 Jan 2018 12:11:47 +0000|Tide Pod challenge: YouTube blocks videos after poisoning fears|American teenagers have been swallowing laundry detergent and posting videos online as part of a challenge.
+Thu, 18 Jan 2018 13:14:20 +0000|RAF Marham: F-35 fighter jet simulator unveiled|The F-35 fighter due to arrive at RAF Marham in Norfolk this summer.
+Thu, 18 Jan 2018 15:35:23 +0000|Chrissy Chambers: How revenge porn almost killed me|Singer Chrissy Chambers describes how her life changed when her ex posted an explicit video online.
+Thu, 18 Jan 2018 17:52:13 +0000|Apple and Google buses under fire in Silicon Valley|Buses carrying Apple and Google employees to work have been targeted while en route.
+Fri, 19 Jan 2018 00:46:35 +0000|Switch on, switch off|As cars become more automated, some experts worry that we are becoming complacent drivers.
+Fri, 19 Jan 2018 03:24:21 +0000|Uber co-founder Travis Kalanick a billionaire after $8bn investment deal|Travis Kalanick is selling $1.4bn worth of shares as consortium invest $8bn in the ride-hailing firm.
+Fri, 19 Jan 2018 11:20:00 +0000|Lancashire Police uses Amazon Alexa to deliver updates|The force says the home app is being used to tell "the public about important neighbourhood issues".
+Fri, 19 Jan 2018 12:34:17 +0000|Google tackles Chromecast wi-fi blasting bug|The problem can knock out home networks by overwhelming routers with data surge, it said
+Fri, 19 Jan 2018 13:09:01 +0000|Data-stealing spyware 'traced to Lebanon'|Nation-state malware dubbed Dark Caracal uncovered by security researchers.
+Fri, 19 Jan 2018 14:22:35 +0000|Apple hit with complaint by South Korean consumer group|A South Korean consumer group has filed a complaint against Apple over iPhone slowdown.
+Fri, 19 Jan 2018 16:34:40 +0000|TalkTalk most complained-about broadband provider|The Post Office came out worst for landline services and Vodafone worst for mobile services.
+Fri, 19 Jan 2018 16:48:00 +0000|Thousands hit in OnePlus credit card hack|About 40,000 customers of OnePlus could have had card details stolen in the attack by cyber-thieves
+Fri, 19 Jan 2018 17:08:58 +0000|Net firms 'better' at removing hate speech, says EU|The European Union says that 70% of material deemed to be offensive is removed within 24 hours.
+Fri, 19 Jan 2018 23:21:08 +0000|Hyperloop: A visit to the test site of Virgin's train of the future|Can a futuristic tube-based transport scheme that shoots pods through a vacuum become a reality?
+Mon, 22 Jan 2018 00:02:14 +0000|The Malaysian region that became a hardware hub|The small Malaysian state of Penang is punching well above its weight in the tech world through hardware manufacturing.
+Mon, 22 Jan 2018 12:01:42 +0000|Kim Dotcom sues New Zealand government for damages|Kim Dotcom says New Zealand is liable for destruction to his business and property.
+Mon, 22 Jan 2018 18:30:45 +0000|Alstom testing automated freight train in the Netherlands|The automated freight train can travel 100km without driver intervention.
+Mon, 22 Jan 2018 13:28:24 +0000|Apple's Tim Cook keeps nephew off social media|Tim Cook criticises social media as providers face demands for tougher regulation.
+Mon, 22 Jan 2018 16:25:45 +0000|Overwatch pro player suspended over homophobic slur|Felix Lengyel has been suspended by the Overwatch league and Dallas Fuel, and fined $2,000.
+Mon, 22 Jan 2018 12:03:49 +0000|Boing Boing blog sued over Playboy centrefolds link|The pornographic magazine wants damages for linking to a pirated gallery of centrefolds.
+Mon, 22 Jan 2018 14:34:39 +0000|HQ Trivia app launches UK version|The live quiz app is popular in the US, but analysts have questions about its business model.
+Mon, 22 Jan 2018 16:09:49 +0000|L'Oreal hijab model pulls out of campaign after backlash|Beauty blogger Amena Khan apologises after tweets she wrote in 2014 are branded as 'anti Israel'.
+Mon, 22 Jan 2018 09:41:54 +0000|Only one in four trust social media, says survey|Two-thirds of Britons think platforms like Facebook and Twitter should be more tightly regulated, according to a survey.
+Mon, 22 Jan 2018 11:49:53 +0000|Amazon's checkout-free store opens|Amazon opens its first grocery store without cashiers to shoppers in Seattle on Monday.
+Mon, 22 Jan 2018 11:47:46 +0000|Sim card shoes send alert if wearer falls.|E-vone has developed a smart connected shoe for elderly or frail people.
+Mon, 22 Jan 2018 12:47:46 +0000|How 'revenge porn' changed my life|Chrissy Chambers tells the BBC's Jane Wakefield how "revenge porn" changed her life.
+Mon, 22 Jan 2018 16:40:29 +0000|Ex-GCHQ boss: 'Social media firms sit above democracy'|Former GCHQ boss says that social media organisations “have huge power” over governments.
+Mon, 22 Jan 2018 01:24:07 +0000|Fake news|How a phrase that originally referred to moneymaking Macedonian teens came to mean a whole lot more.
+Wed, 24 Jan 2018 13:40:07 +0000|Tesla and GM self-drive cars involved in road collisions|A Tesla Model S and a GM Chevy Bolt are involved in separate collisions on California's roads.
+Wed, 24 Jan 2018 15:32:43 +0000|Facebook's news trust survey comprises just two questions|A survey used to determine which publishers to favour amounts to two brief questions.
+Wed, 24 Jan 2018 12:07:27 +0000|Degree in 'flying car' engineering offered online|Former head of Google self-drive car project Sebastian Thrun is the brains behind the unusual degree.
+Wed, 24 Jan 2018 20:15:03 +0000|Welsh NHS systems back up after computer 'chaos'|Doctors were unable to access patient records due to technical problems, causing "chaos".
+Wed, 24 Jan 2018 01:11:43 +0000|K'Nex builds toys rollercoaster you can ride in VR|K'Nex creates a toy rollercoaster kit that children build and then "ride" in virtual reality.
+Tue, 23 Jan 2018 14:36:59 +0000|Facebook invents new unit of time called a flick|The flick is the smallest unit of time larger than a nanosecond.
+Wed, 24 Jan 2018 13:36:43 +0000|EU fines chipmaker Qualcomm £870m for Apple payments|The world's biggest mobile phone chipmaker was found to have 'illegally shut out rivals".
+Tue, 23 Jan 2018 17:17:34 +0000|Mavic Air: DJI launches 'ultraportable' drone|DJI releases a drone that it says is about half the size and weight of its bestselling Mavic Pro.
+Tue, 23 Jan 2018 19:49:22 +0000|Microsoft boss: World needs more computing power|The head of tech giant Microsoft says faster machines are needed to solve difficult computing problems.
+Wed, 24 Jan 2018 05:48:16 +0000|Stripe to ditch Bitcoin payment support|Volatility, high fees and longer transactions mean the payments firm will dump the cryptocurrency.
+Tue, 23 Jan 2018 14:14:41 +0000|Elon Musk's Boring Company presents LA tunnel plan|Elon Musk's Boring Company has presented its LA transport tunnel plans for Culver City.
+Tue, 23 Jan 2018 15:16:49 +0000|Amazon's Twitch triumphs over bot-sellers|The Amazon-owned games streaming service wins a court battle versus a service selling fake views.
+Tue, 23 Jan 2018 10:29:39 +0000|Crypto-cash boom prompts graphics card rationing|Graphics-card makers seek to limit sales of hardware as crypto-coin miners snap up supplies.
+Tue, 23 Jan 2018 12:31:42 +0000|Intel tells users to stop installing chip patches|The chip maker tells customers to stop installing patches for two serious flaws that expose key data.
+Tue, 23 Jan 2018 10:58:21 +0000|Hawaii missile alert standdown delayed by forgotten log-in|Hawaii's governor says a failure to remember his Twitter details delayed a corrective message.
+Tue, 23 Jan 2018 13:54:50 +0000|NHS Digital approves data off-shoring in new guidance|Healthcare providers can choose to store patient data overseas in Europe and the US.
+Tue, 23 Jan 2018 14:46:35 +0000|Twitter's Anthony Noto leaves to join SoFi|The company's chief operating officer, Anthony Noto, joins social lender SoFi as chief executive.
+Tue, 23 Jan 2018 16:10:20 +0000|Netflix tunes into subscriber surge|The streaming service adds more than 8 million members in the last three months of 2017.
+Tue, 23 Jan 2018 05:30:18 +0000|S Korea bans anonymous cryptocurrency trades|The move is aimed at preventing cryptocurrencies being used for crimes such as money laundering
+Mon, 22 Jan 2018 23:27:08 +0000|Rupert Murdoch: Facebook should pay for news|Rupert Murdoch says newspapers are not being properly paid by the social network for their content.
+Wed, 24 Jan 2018 00:37:21 +0000|Robot bartender: The bar where machines mix drinks|You can order a cocktail and a pair of robot arms will mix it for you while you wait.
+Tue, 23 Jan 2018 11:11:51 +0000|The pill that measures farts|The capsule can measure gas levels and transmit this information to a mobile phone app.
+Mon, 22 Jan 2018 23:20:25 +0000|Amazon opens its first grocery store in Seattle - with no tills|No tills? No problem. Inside Amazon's new, fully automated store, which has no checkouts.
+Wed, 24 Jan 2018 17:38:09 +0000|Grumpy Cat wins $710,000 payout in copyright lawsuit|The internet-famous cat had something to smile about after being awarded over $700,000 in court.
+Tue, 23 Jan 2018 18:59:58 +0000|The mystery of the cars abandoned in a robot car park|Several vehicles from the 1990s were discovered during work to dismantle Edinburgh's "car park of the future".
+Wed, 24 Jan 2018 02:21:50 +0000|Revenge porn|More cases of revenge porn are reported in the UK every year but what can be done if it happens to you?
+Tue, 23 Jan 2018 00:35:07 +0000|Who needs pilots?|Congestion in cities and fears of climate change are spawning new ideas for air travel.
+Tue, 23 Jan 2018 13:11:10 +0000|Netflix's rise and rise|With more than 100m subscribers, Netflix has come a long way since starting as a DVD rental company in 1998.
+Tue, 23 Jan 2018 00:18:57 +0000|Too few women?|Gender equality is high on the Davos agenda this year, but does the elite gathering have its own issue?
+Tue, 23 Jan 2018 00:11:16 +0000|Backpack midwife|For many people in remote regions access to healthcare is limited, so tech is coming to their aid.
+Wed, 24 Jan 2018 22:32:13 +0000|UK PM seeks 'safe and ethical' artificial intelligence|Theresa May will say she wants the UK to lead efforts to make AI safe in a speech at Davos.
+Thu, 25 Jan 2018 03:13:40 +0000|App shows water refill stations to tackle plastic waste|Thousands of water stations are being installed to tackle plastic use - with users able to find them via an app.
+Thu, 25 Jan 2018 08:11:10 +0000|Sky signals the end of the satellite dish|Pay TV broadcaster will offer all its channels and content online as it seeks to enter new markets.
+Thu, 25 Jan 2018 10:24:56 +0000|Nintendo axes Miitomo, its first smartphone game|It was downloaded millions of times when it launched but struggled to maintain a large audience.
+Thu, 25 Jan 2018 10:40:41 +0000|Sky signals the end of the satellite dish|Pay TV broadcaster will offer all its channels and content online as it seeks to enter new markets.
+Thu, 25 Jan 2018 12:22:28 +0000|Tiny Tamagotchi bids for UK comeback|Toy-maker Bandai is hoping its miniature Tamagotchi virtual pet will be a hit in the UK.
+Thu, 25 Jan 2018 13:51:53 +0000|UK PM seeks 'safe and ethical' artificial intelligence|Theresa May says she wants the UK to lead efforts to make AI safe in a speech at Davos.
+Thu, 25 Jan 2018 15:21:55 +0000|Knife-threatening app banned by Google|An app aimed at children with a chilling voiceover has been banned by Google.
+Fri, 26 Jan 2018 00:16:26 +0000|Call for broadband consumer champion|Citizens Advice wants the government to appoint an advocate for broadband customers to tackle poor service.
+Fri, 26 Jan 2018 00:21:12 +0000|January blues|Too little sunlight can negatively affect our mood, so can clever lighting give us a boost?
+Fri, 26 Jan 2018 11:43:19 +0000|Google's pestering ads get 'mute' button|People will be able to hide ads that encourage them to buy products from sites they have previously visited.
+Fri, 26 Jan 2018 13:35:50 +0000|Apple's iPhone battery 'slowdown' to be optional|Customers will be able to switch off a feature that deliberately slows down some older handsets.
+Fri, 26 Jan 2018 17:13:02 +0000|Slime takes over at the toy fair|Toy-makers respond to the popularity of slime videos on YouTube with their own slime kits.
+Sun, 28 Jan 2018 07:33:04 +0000|Coincheck promises 46bn yen refund after cryptocurrency theft|Tokyo-based digital currency exchange Coincheck says it will reimburse some 260,000 victims of theft.
+Sun, 28 Jan 2018 20:33:19 +0000|New York investigates company accused of selling fake Twitter followers|It comes after a report traces links between a company, millions of bots and various celebrities.
+Mon, 29 Jan 2018 01:34:16 +0000|Fitness tracker Strava lights up military base|Deployed soldiers have been publicly sharing location information as they log their daily runs.
+Mon, 29 Jan 2018 04:29:23 +0000|Fitness tracker Strava lights up military base|Deployed soldiers have been publicly sharing location information as they log their daily runs.
+Mon, 29 Jan 2018 06:28:57 +0000|Fitness tracker Strava lights up military base|Deployed soldiers have been publicly sharing location information as they log their daily runs.
+Mon, 29 Jan 2018 08:06:26 +0000|Fitness tracker Strava lights up military base|Soldiers have been publicly sharing location information as they log their daily runs.
+Mon, 29 Jan 2018 08:35:15 +0000|Who needs pilots?|Matthew Wall reports on how congestion in cities and fears of climate change are driving ideas in aviation.
+Mon, 29 Jan 2018 09:33:53 +0000|'Grooming alerts' call for social media|Existing technology can be used to flag grooming behaviour to children and moderators, the NSPCC says.
+Mon, 29 Jan 2018 10:13:25 +0000|Children could get online grooming 'alerts' - NSPCC|Existing technology can be used to flag grooming behaviour to children and moderators, the NSPCC says.
+Mon, 29 Jan 2018 10:21:01 +0000|Children could get online grooming 'alerts' - NSPCC|Existing technology can be used to flag grooming behaviour to children and moderators, the NSPCC says.
+Mon, 29 Jan 2018 11:37:13 +0000|Fitness app Strava lights up staff at military bases|Soldiers have been publicly sharing location information as they log their daily runs.
+Mon, 29 Jan 2018 12:22:31 +0000|TomTom ditches map updates for some sat-navs|Customers are told their sat-navs, including some bought in recent months, will no longer get updates.
+Mon, 29 Jan 2018 14:03:32 +0000|Fitness app Strava lights up staff at military bases|Soldiers have been publicly sharing location information as they log their daily runs.
+Mon, 29 Jan 2018 15:33:49 +0000|Fines up to £17m launched for firms with poor cyber-security|Companies in the UK that fail to protect themselves effectively from hackers could be fined up to £17m.
+Mon, 29 Jan 2018 21:43:07 +0000|Facebook to promote local news in drive for 'trusted' content|The company says an update allowing users to select community news will encourage civic engagement.
+Tue, 30 Jan 2018 00:05:26 +0000|Robo news|More media outlets are using automated algorithms to write news stories.
+Tue, 30 Jan 2018 05:48:43 +0000|How a boy from Belarus makes money from mining cryptocurrency|Meet the teenager making money with a computer on his mum's balcony
+Tue, 30 Jan 2018 09:51:47 +0000|ColorFab: 3D printer can change colour of objects|MIT is making a new kind of 3D printer that can change the colour of the objects you print.
+Tue, 30 Jan 2018 10:47:21 +0000|Microsoft disables 'buggy' Intel patch|An update for Windows 7, 8.1 and 10 disables a flawed patch issued by Intel.
+Tue, 30 Jan 2018 11:57:08 +0000|Facebook 'no place' for young children|More than 100 child health experts are urging Facebook to withdraw an app aimed at under-13s.
+Wed, 31 Jan 2018 03:19:42 +0000|Logan Paul 'more popular' than Zoella with children|Study suggests children are seeking edgier content on YouTube, their favourite online site.
+Tue, 30 Jan 2018 23:32:11 +0000|Hawaii false alarm: Officials quit over missile alert|Additionally the employee who sent the warning, who had a record of poor performance, is fired.
+Wed, 31 Jan 2018 05:55:01 +0000|Thousands of cash machines may be closed|Up to 30,000 ATMs could go following changes to the fees that operators are paid, Link warns.
+Wed, 31 Jan 2018 08:12:03 +0000|Fujifilm to cut jobs as demand for photocopiers drops|Fujifilm to cut 10,000 jobs at Fuji Xerox blaming 'severe' conditions in the market for photcopiers.
+Wed, 31 Jan 2018 08:53:08 +0000|Nintendo Switch overtakes the Wii U|The Nintendo Switch games console outsells its predecessor, just 10 months after its launch.
+Wed, 31 Jan 2018 10:00:29 +0000|Nintendo Switch overtakes the Wii U|The Nintendo Switch games console outsells its predecessor, just 10 months after its launch.
+Wed, 31 Jan 2018 10:30:18 +0000|Cryonics: Your body preserved for future revival?|Arizona-based company Alcor offers cryonic preservation in the hope of reviving you in the future.
+Wed, 31 Jan 2018 10:49:50 +0000|Cryonics: Your body preserved for future revival?|Arizona-based company Alcor offers cryonic preservation in the hope of reviving you in the future.
+Wed, 31 Jan 2018 11:38:40 +0000|Fujifilm to take over Xerox as photocopier demand drops|Fujifilm to takeover Xerox and cut 10,000 jobs in 'increasingly severe' market conditions.
+Wed, 31 Jan 2018 13:07:35 +0000|Big backing for 'universal stylus' campaign|Google backs an effort to make touch-screen styluses work across all devices.
+Wed, 31 Jan 2018 13:23:25 +0000|Google Search results to give 'diverse' answers|The technology company says it will present multiple viewpoints after claims it was spreading lies.
+Wed, 31 Jan 2018 16:53:25 +0000|Samsung enters crypto-currency chips business|The South Korean firm reveals it has begun making chips designed to be used to mine crypto-cash.
+Thu, 01 Feb 2018 00:04:25 +0000|UK plans 200-mile 'country roads' driverless trial|The project aims to push the limits of autonomous technology with the UK's challenging roads.
+Thu, 01 Feb 2018 00:05:43 +0000|PowerWatch: The smartwatch powered by body heat|The watch uses thermoelectric technology to covert body heat energy into technology.
+Thu, 01 Feb 2018 05:54:52 +0000|Apple, Amazon, Alphabet: The race to one trillion dollars|Many analysts predict that at some point this year, at least one US tech firm will become America's first trillion dollar company. Dave Lee looks at the contenders.
+Thu, 01 Feb 2018 07:10:09 +0000|Betting firms to stop 'unfair' promotions|Three betting firms agree to change online gaming promotions after pressure from competition authorities.
+Thu, 01 Feb 2018 06:42:12 +0000|Super Mario film announced by Nintendo|It's part of the company's plan to increase its earnings from other industries.
+Thu, 01 Feb 2018 09:15:01 +0000|BT's Openreach plans faster broadband push|The firm says it will connect three million premises with high-speed fibre connections by 2020.
+Thu, 01 Feb 2018 09:51:04 +0000|'Hi I'm Matt Hancock' - culture secretary launches own app|The culture secretary becomes the first MP to launch his own smartphone app.
+Thu, 01 Feb 2018 10:06:05 +0000|The CEO of Openreach aims to connect 10m customers to 'ultra-fast' by 2025|The CEO of Openreach aims to connect 10m customers to 'ultra-fast' by 2025.
+Thu, 01 Feb 2018 10:39:33 +0000|BT's Openreach plans faster broadband push|The firm says it will connect three million premises with high-speed fibre connections by 2020.
+Thu, 01 Feb 2018 11:18:39 +0000|'Hi I'm Matt Hancock' - culture secretary launches own app|The culture secretary becomes the first MP to launch his own smartphone app.
+Thu, 01 Feb 2018 12:05:42 +0000|Three million homes to get ultrafast broadband by 2020|Openreach says it will speed up the rollout of high-speed fibre connections to homes and businesses.
+Thu, 01 Feb 2018 11:53:37 +0000|Facebook users spending less time online|The fall of about 50 million hours a day came before major changes to the News Feed last month.
+Thu, 01 Feb 2018 12:14:36 +0000|Delays hit KodakCoin crypto-currency plans|Large numbers of potential investors mean the company will delay its initial coin offering by several weeks.
+Thu, 01 Feb 2018 12:15:00 +0000|Atari founder denied award over sexist behaviour|Social media campaign sees top gaming body abandon plan to honour Atari founder.
+Thu, 01 Feb 2018 13:17:22 +0000|'Hi I'm Matt Hancock' - culture secretary launches own app|The culture secretary becomes the first MP to launch his own smartphone app.
+Thu, 01 Feb 2018 13:26:49 +0000|eBay drops PayPal as first choice for payments|The online marketplace says the move will benefit both sellers and buyers.
+Thu, 01 Feb 2018 13:59:58 +0000|Deepfake porn videos deleted from internet by Gfycat|The Gyfcat video clip hosting service says the computer-generated clips are objectionable.
+Thu, 01 Feb 2018 15:56:46 +0000|Apple removes Telegram from app store|Inappropriate content available via the app was the reason it was removed, Telegram says.
+Fri, 02 Feb 2018 00:03:40 +0000|Autonomous robot mimics bat in flight and other news|BBC Click's Lara Lewington looks at some of the best technology stories of the week.
+Fri, 02 Feb 2018 00:05:37 +0000|Mind control|Controlling machines using thought can be used in medicine, gaming, transport and many other sectors.
+Fri, 02 Feb 2018 02:32:37 +0000|Google owner Alphabet earnings hit by rising costs costs|Shares in the tech giant fall by 5% in after-hours trade after the disappointing results are announced.
+Fri, 02 Feb 2018 04:15:46 +0000|Apple sells fewer phones but profits rise|The price of the iPhone X compensates for a dip in handset sales during the last three months of 2017.
+Fri, 02 Feb 2018 09:47:04 +0000|Sony chief executive Kazuo Hirai to step down|Sony's finance chief Kenichiro Yoshida to replace Kazuo Hirai as chief executive from April.
+Fri, 02 Feb 2018 09:27:52 +0000|'Hi I'm Matt Hancock' - culture secretary launches own app|The culture secretary becomes the first MP to launch his own smartphone app.
+Fri, 02 Feb 2018 11:07:34 +0000|'Egregious' YouTubers to face consequences|YouTube says video-makers who damage the reputation of the site will face new consequences.
+Fri, 02 Feb 2018 12:42:02 +0000|Bitcoin braces for worst week since 2013|The digital currency drops below $8,000, leaving it down 30% for the week so far.
+Fri, 02 Feb 2018 13:13:30 +0000|Sprawling Mayan network discovered under Guatemala jungle|Latest technology reveals a network of more than 60,000 structures under Guatemala's jungle.
+Fri, 02 Feb 2018 14:22:32 +0000|NSPCC calls for immediate action on children's online safety|The charity condemns the government for not implementing proposals to protect children online.
+Fri, 02 Feb 2018 16:33:28 +0000|Sprawling Mayan network discovered under Guatemala jungle|Latest technology reveals a network of more than 60,000 structures under Guatemala's jungle.
+Fri, 02 Feb 2018 17:36:47 +0000|Bitcoin braces for worst week since 2013|The digital currency drops below $8,000, leaving it down 30% for the week so far.
+Mon, 05 Feb 2018 00:06:42 +0000|Waymo v Uber: Who stole what?|A legal battle between Waymo and Uber over the theft and use of the former's self-driving car technology is underway.
+Mon, 05 Feb 2018 01:12:57 +0000|Lloyds Bank bans Bitcoin purchases on its credit cards|The bank stops its credit card customers buying the digital currency amid fears its value will keep falling.
+Mon, 05 Feb 2018 07:28:28 +0000|Samsung heir freed from S Korea jail|Lee Jae-yong has his five year jail term for corruption suspended by an appeals court.
+Mon, 05 Feb 2018 09:40:33 +0000|Lloyds Bank bans Bitcoin purchases on its credit cards|The bank stops its credit card customers buying digital currencies amid fears its value will keep falling.
+Mon, 05 Feb 2018 09:26:48 +0000|Samsung heir freed from S Korea jail|Lee Jae-yong has his five year jail term for corruption suspended by an appeals court.
+Mon, 05 Feb 2018 11:15:23 +0000|Lloyds Bank bans Bitcoin purchases on its credit cards|The bank stops its credit card customers buying digital currencies amid fears its value will keep falling.
+Mon, 05 Feb 2018 11:43:06 +0000|Lauri Love case: Hacking suspect wins extradition appeal|Lauri Love, from Suffolk, is suspected of hacking into FBI, US Central Bank and Nasa systems.
+Mon, 05 Feb 2018 11:21:26 +0000|Facebook executive has 'incurable' cancer|The social network's vice-president in Europe reveals she has follicular lymphoma.
+Mon, 05 Feb 2018 11:29:21 +0000|Lloyds Bank bans Bitcoin purchases on its credit cards|The bank stops its credit card customers buying digital currencies amid fears its value will keep falling.
+Mon, 05 Feb 2018 12:07:56 +0000|Lauri Love case: Hacking suspect wins extradition appeal|Lauri Love, from Suffolk, is suspected of hacking into FBI, US Central Bank and Nasa systems.
+Mon, 05 Feb 2018 12:13:02 +0000|Lloyds Bank bans Bitcoin purchases on its credit cards|The bank stops its credit card customers buying digital currencies amid fears its value will keep falling.
+Mon, 05 Feb 2018 12:48:59 +0000|Lauri Love case: Hacking suspect wins extradition appeal|Lauri Love, from Suffolk, is suspected of hacking into FBI, US Central Bank and Nasa systems.
+Mon, 05 Feb 2018 12:32:37 +0000|Lloyds Bank bans Bitcoin purchases on its credit cards|The bank stops its credit card customers buying digital currencies amid fears its value will keep falling.
+Mon, 05 Feb 2018 12:53:16 +0000|Bitcoin puzzle worth $50,000 solved after nearly three years|The painting contained a code for Bitcoin worth $50,000 - but had left many scratching their heads.
+Mon, 05 Feb 2018 13:42:47 +0000|Lauri Love case: Hacking suspect wins extradition appeal|Lauri Love, who is suspected of hacking into FBI, US Central Bank and Nasa systems, now faces trial in the UK.
+Mon, 05 Feb 2018 14:12:38 +0000|Lauri Love case: Hacking suspect wins extradition appeal|Lauri Love, suspected of hacking into FBI and Nasa systems, may now face trial in the UK.
+Mon, 05 Feb 2018 14:16:34 +0000|New Spectrum Vega+ promises follow funds threat|The makers of a retro games console give a new delivery date after a threat to recoup funds.
+Mon, 05 Feb 2018 15:16:39 +0000|Lloyds Bank bans Bitcoin purchases on its credit cards|The bank stops its credit card customers buying digital currencies amid fears its value will keep falling.
+Mon, 05 Feb 2018 16:06:10 +0000|Technology 'makes workers less productive'|Staff suffer from technostress, says an expert, with few Europeans feeling they work at their best.
+Mon, 05 Feb 2018 17:43:09 +0000|Virgin Money joins ban on buying Bitcoin on credit cards|The bank will not allow customers to purchase digital currencies on their credit cards.
+Mon, 05 Feb 2018 23:43:35 +0000|Electric dreams: The race to develop battery-powered planes|The pressure to cut emissions, noise and costs is propelling companies towards electric planes.
+Tue, 06 Feb 2018 00:02:15 +0000|Computer says no|More firms are relying on artificial intelligence and automation to speed up recruitment, but at what cost?
+Tue, 06 Feb 2018 08:16:09 +0000|YouTube Kids still shows disturbing videos|YouTube says it is “very sorry” after more disturbing videos were found on YouTube Kids.
+Tue, 06 Feb 2018 11:14:02 +0000|Bitcoin falls below $6,000|Investor fears over tightening crypto-currency legislations could be contributing to the fall.
+Tue, 06 Feb 2018 11:13:36 +0000|Child abuse images behind Telegram ban|Users who posted "this horrible content" have been banned, said Apple's app store boss.
+Tue, 06 Feb 2018 11:28:56 +0000|Electric dreams: The race to develop battery-powered planes|The pressure to cut emissions, noise and costs is propelling companies towards electric planes.
+Tue, 06 Feb 2018 11:41:50 +0000|Alleged hacker Lauri Love 'relieved' by court ruling|Mr Love says he wants to be prosecuted by the Crown Prosecution Service over alleged hacking charges.
+Tue, 06 Feb 2018 13:20:49 +0000|Former Facebook and Google employees fight tech 'addiction'|The campaign aims to reverse what it calls the "digital attention crisis".
+Tue, 06 Feb 2018 17:46:01 +0000|Bitcoin falls below $6,000|Investor fears over tightening crypto-currency legislations could be contributing to the fall.
+Tue, 06 Feb 2018 17:03:32 +0000|More than 746,000 NHS phishing emails blocked in a month|The NCSC has brought down the UK's share of global phishing attacks by securing government systems.
+Tue, 06 Feb 2018 18:39:40 +0000|Katie Price urges MPs to tackle online abuse|The reality TV star tells of the "horrific" social media abuse targeted at her disabled son.
+Tue, 06 Feb 2018 20:12:44 +0000|Elon Musk's huge Falcon Heavy rocket set for launch|The entrepreneur will attempt to fly the world's most powerful rocket with his own Tesla as payload.
+Tue, 06 Feb 2018 22:26:31 +0000|Uber boss takes stand at driverless trial|Ex-Uber boss is pressed on allegations he orchestrated the theft of trade secrets from Google's Waymo.
+Wed, 07 Feb 2018 00:10:28 +0000|Poundland 'naughty' elf ad deemed 'irresponsible' by regulator|The social media campaign, which featured sexual references, breached the ASA code of practice.
+Wed, 07 Feb 2018 00:13:27 +0000|BBC launches first augmented reality app for Civilisations|People will be able to explore historical artefacts in a virtual exhibition on their smartphones.
+Wed, 07 Feb 2018 00:14:50 +0000|The tech making fashion accessible for disabled people|Open Style Lab combines technology and fashion to make clothing more accessible for disabled people.
+Wed, 07 Feb 2018 05:01:42 +0000|Elon Musk's Falcon Heavy rocket launches successfully|The world's most powerful rocket successfully lifts clear of its pad on historic maiden flight.
+Wed, 07 Feb 2018 07:53:29 +0000|Gig economy: Holiday and sick pay promise for millions|The government says it will strictly enforce employment rights to improve conditions for millions of workers.
+Wed, 07 Feb 2018 11:19:34 +0000|VR and brain zaps help the US ski team|Virtual reality and headphones that zap your brain - the US Ski team's quest for Olympic gold at the Winter Olympics.
+Wed, 07 Feb 2018 11:45:27 +0000|Facebook executive: My son asked if I am going to die|Lady Nicola Mendelsohn is living with a currently incurable form of blood cancer.
+Wed, 07 Feb 2018 12:54:45 +0000|Deepfake pornographic videos banned by Twitter|Videos that merge celebrities faces with explicit sexual activity are blocked by the social network.
+Wed, 07 Feb 2018 13:51:08 +0000|VR and brain zaps help the US ski team|Virtual reality and headphones that zap your brain - the US Ski team's quest for Olympic gold at the Winter Olympics.
+Wed, 07 Feb 2018 14:44:35 +0000|Russian Tumblr trolls pose as black activists, says Buzzfeed|A Buzzfeed investigation says Russian trolls have been posing as black activists on the site.
+Wed, 07 Feb 2018 17:43:07 +0000|Dozens charged for Infraud cyber-crime site|Thirty-six people are charged for their alleged involvement in running a giant cyber-crime site.
+Wed, 07 Feb 2018 18:19:31 +0000|Dozens charged for Infraud cyber-crime site|Thirty-six people are charged for their alleged involvement in running a giant cyber-crime site.
+Wed, 07 Feb 2018 19:24:48 +0000|Snapchat revamp gets full-scale UK rollout|The new design launches days after the company announced a strong fourth quarter.
+Wed, 07 Feb 2018 23:20:25 +0000|Reddit bans deepfake porn videos|The discussion site bans all faked pornography that uses people's faces without their permission.
+Thu, 08 Feb 2018 00:06:39 +0000|MPs travel to US on fake news mission|A House of Commons committee is in Washington to question Google, Facebook and Twitter on fake news.
+Thu, 08 Feb 2018 00:09:41 +0000|Facebook moderator: I had to be prepared to see anything|A former moderator for the social network recalls some of the content she had to tackle.
+Thu, 08 Feb 2018 00:12:17 +0000|Die With Me: The chat app for those with a low battery|The Die With Me app only works when you have 5% battery or less.
+Thu, 08 Feb 2018 08:22:57 +0000|Emojis: New list includes a redhead at last|The new emoji list has been published which adds ginger hair and over 150 other emojis for you to have fun with.
+Thu, 08 Feb 2018 11:50:53 +0000|Internet pioneer John Perry Barlow dies, aged 70|He was an advocate of free speech and also wrote lyrics for the Grateful Dead rock group.
+Thu, 08 Feb 2018 13:30:12 +0000|Google-Nest merger raises privacy issues|Campaigners are concerned that smart home specialist Nest will no longer be a separate business.
+Thu, 08 Feb 2018 13:59:38 +0000|Twitter makes a profit for the first time|The social media company posts its maiden quarterly profit, sending its share price up by a quarter.
+Thu, 08 Feb 2018 15:54:55 +0000|Twitter makes a profit for the first time|The social media company posts a maiden quarterly profit, sending the share price up 18%.
+Thu, 08 Feb 2018 21:32:34 +0000|Twitter makes a profit for the first time|The social media company posts a maiden quarterly profit, sending the share price up 18%.
+Fri, 09 Feb 2018 00:10:09 +0000|EE 'shoebox' to tackle broadband not-spots|EE will sell a 4G antenna to bring fast broadband to homes in rural areas.
+Fri, 09 Feb 2018 00:03:38 +0000|Potato plastics|Better recycling and compostable materials could be an answer to our plastic pollution problem.
+Fri, 09 Feb 2018 10:36:38 +0000|Teen codes app for Alzheimer's patients and other news|BBC Click's Jen Copestake looks at some of the best technology stories of the week.
+Fri, 09 Feb 2018 00:12:22 +0000|What is the point of an air show?|Whether it's Paris or Farnborough, Dubai or Singapore, air shows have a real fanbase. But why?
+Fri, 09 Feb 2018 11:00:40 +0000|Facebook testing 'downvote' button|The social network is testing a feature that lets people hide offensive comments.
+Fri, 09 Feb 2018 11:40:28 +0000|Twitch to ban users for 'hate' on other platforms|The streaming site says it will now ban people who are abusive on other platforms as well as its own.
+Fri, 09 Feb 2018 12:07:24 +0000|Russian nuclear scientists arrested for 'Bitcoin mining plot'|Reports say scientists at a Russian nuclear bomb factory tried to mine crypto-currencies.
+Fri, 09 Feb 2018 13:26:29 +0000|Apple confirms iPhone source code leak|Some of the secret code used in Apple's iOS 9 mobile operating system is leaked online.
+Fri, 09 Feb 2018 13:55:42 +0000|YouTube drops ads from Logan Paul channels|In December, the video blogger was criticised for uploading a video of a dead body.
+Fri, 09 Feb 2018 18:02:11 +0000|New Sega Mega Drive game made on '90s kit|The Sega Mega Drive games console gets a new game more than 20 years after it went on sale.
+Sat, 10 Feb 2018 00:16:57 +0000|Childhood depression|Do children spend too much time online and does social media use make them anxious and unhappy?
+Sat, 10 Feb 2018 00:38:09 +0000|Profile: Elon Musk|Elon Musk just launched the world's most powerful rocket. It's only a fraction of what he's up to.
+Sun, 11 Feb 2018 20:31:20 +0000|Hackers hijack government websites to mine crypto-cash|A security expert says thousands of sites used visitors' computers to mine cryptocurrency.
+Sun, 11 Feb 2018 21:11:48 +0000|Hackers hijack government websites to mine crypto-cash|A security expert says thousands of sites used visitors' computers to mine cryptocurrency.
+Mon, 12 Feb 2018 04:08:58 +0000|Criminals hide 'billions' in crypto-cash - Europol|Cryptocurrencies are being used by criminals to launder billions of pounds, Europol warns.
+Mon, 12 Feb 2018 10:48:55 +0000|Winter Olympics hit by cyber-attack|The website for the Games suddenly went offline on 9 February after being attacked, officials say.
+Mon, 12 Feb 2018 10:15:44 +0000|Sports Direct to offer e-sports in Game Digital tie-up|The move comes as the retailer increases its collaboration with specialist games firm Game Digital.
+Mon, 12 Feb 2018 13:14:05 +0000|Bitcoin energy use in Iceland set to overtake homes, says local firm|Data centres mining the crypto-currency will use more electricity than homes this year, an energy firm says.
+Mon, 12 Feb 2018 12:54:17 +0000|Equifax under pressure after data breach update|A US senator gives the credit rating firm a week to reveal more information about 2017's cyber-attack.
+Mon, 12 Feb 2018 14:32:19 +0000|Equifax under pressure after data breach update|A US senator gives the credit rating firm a week to reveal more information about 2017's cyber-attack.
+Mon, 12 Feb 2018 16:33:40 +0000|Facebook broke German privacy laws, court rules|A German regional court rules that the social network failed to obtain proper consent to some of its features.
+Tue, 13 Feb 2018 00:08:40 +0000|Tinder revolution|Online dating has become the standard way to find a partner these days. Can AI make it even better?
+Tue, 13 Feb 2018 01:09:56 +0000|Viewsnight: 'Why are the apps of the future using Victorian working practices?'|Polly Mackenzie argues that workers in the gig economy must have stronger employment protections.
+Tue, 13 Feb 2018 07:53:03 +0000|Amazon plans hundreds of lay-offs|The e-commerce giant has grown rapidly in recent years but is now closing jobs in Seattle and worldwide.
+Tue, 13 Feb 2018 06:05:58 +0000|YouTube couples|In the latest Newsbeat Documentary, vlogger Ben Hunte looks at couples revealing all on YouTube and Instagram.
+Tue, 13 Feb 2018 10:32:03 +0000|Ten gigabit home broadband tested in UK|A proof-of-concept test of 10Gbps has been conducted in a residential home in London.
+Tue, 13 Feb 2018 11:54:41 +0000|Logan Paul 'won't be kicked off' YouTube|The controversial star hasn't done enough to warrant a ban from the site, YouTube's head says.
