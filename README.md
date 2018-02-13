@@ -1,6 +1,6 @@
 # A Bayesian classifier for news articles 
 
-This project uses my [feedcollector](https://github.com/adamkovesdi/feedcollector) output to train a Bayesian classifier for distingusih between news categories.
+This project uses my [feedcollector](https://github.com/adamkovesdi/feedcollector) output to train a Bayesian classifier that distingusihes between news categories.
 
 You have to input a sentence and the algorithm tries it's best to choose category.
 
