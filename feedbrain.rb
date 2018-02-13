@@ -1,23 +1,26 @@
 require 'classifier-reborn'
-require 'pry'
 
-# feeds all data to a given LSI object
+# feeds all data to a given classifier object
 class Feedbrain
   def self.fill
     # return a LSI object filled with categories
-    lsi = ClassifierReborn::LSI.new
+    classifier = ClassifierReborn::Bayes.new
     categoryfiles.each do |cf|
       category = chopextension(cf)
-      fillcategory(lsi, category, 'traindata/' + cf)
+      fillcategory(classifier, category, 'traindata/' + cf)
     end
-    lsi
+    classifier
   end
 
   def self.fillcategory(classifier, category, filename)
     # fill the category with file
-    puts "Processing #{category}"
+    print category + ' '
     lines = processfile(filename)
-    classifier.add_item(lines, category)
+    classifier.train(category, lines)
+  end
+
+  def self.chopextension(filename)
+    filename.gsub('.txt', '')
   end
 
   def self.processfile(filename)
@@ -28,18 +31,8 @@ class Feedbrain
     rv.gsub!(/[^\nA-Za-z0-9 ]/, '')
   end
 
-  def self.chopextension(filename)
-    filename.gsub('.txt', '')
-  end
-
   def self.categoryfiles
     # scan all txt files and return as array
     Dir.entries('traindata').select { |e| e =~ /.txt/ }
   end
 end
-
-# lsi = Feedbrain.fill
-# File.open('classifier.dat', 'w') { |f| f.write(Marshal.dump(lsi)) }
-# lsi = Marshal.load(File.read('classifier.dat'))
-
-# binding.pry
